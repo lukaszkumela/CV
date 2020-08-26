@@ -43,7 +43,7 @@ article {
 }
 
 section{
-  margin: 1em;
+  margin: 20px;
   padding: 1em;
 }
 
@@ -153,11 +153,10 @@ span {
 }
 
 footer {
-  
   text-align: center;
   padding: 10px;
-  background-color: white;
-  color: black;
+  background-color: #faab00;
+  color: white;
 }
 
 .flag{
@@ -218,6 +217,7 @@ ul.list-job li::before{
 .portfolio {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 20px;
 }
 
 div.gallery {
