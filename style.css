@@ -100,6 +100,7 @@ header img {
 
 h1 {
   margin: 1em 0;
+  color: white;
 }
 
 h3{
@@ -152,10 +153,11 @@ span {
 }
 
 footer {
+  
   text-align: center;
-  padding: 3px;
-  background-color: #faab00;
-  color: white;
+  padding: 10px;
+  background-color: white;
+  color: black;
 }
 
 .flag{
@@ -216,7 +218,6 @@ ul.list-job li::before{
 .portfolio {
   display: flex;
   flex-wrap: wrap;
-  margin-bottom: 30px;
 }
 
 div.gallery {
