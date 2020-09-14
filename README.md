@@ -1,2 +1,2 @@
 # CV
-My CV :D
+My CV
